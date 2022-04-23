@@ -1,0 +1,23 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.1",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssilfies17/Book-Search-Engine.git"
+  },
+  "author": "Sawyer Silfies",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ssilfies17/Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/ssilfies17/Book-Search-Engine#readme"
+}
